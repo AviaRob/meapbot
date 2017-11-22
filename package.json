@@ -1,0 +1,12 @@
+{
+  "name": "Cosmo",
+  "version": "0.0.0",
+  "description": "Cosmo! A cool bot that has editable commands! You can talk to it, play music and much more! It's like a little friend!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}
